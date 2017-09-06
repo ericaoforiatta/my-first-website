@@ -1,8 +1,8 @@
-# {Application Name}
+# {My First Readme}
 
 #### {Brief description of application}, {Date of current version}
 
-#### By **{List of contributors}**
+#### By **{Erica Ofori-Atta}**
 
 ## Description
 
